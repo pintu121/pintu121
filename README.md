@@ -20,12 +20,6 @@
 <a href="[https://aws.amazon.com](https://aws.amazon.com/)" target="_blank" rel="noreferrer">
 <img src="https://www.logigroup.com/images/Logo_aws.gif" alt="aws" width="100" height="80"/>
 </a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="80" height="80"/>
-</a>
-<a href="[https://cloud.google.com](https://cloud.google.com/)" target="_blank" rel="noreferrer">
-<img src="https://www.gend.co/hs-fs/hubfs/gcp-logo-cloud.png?width=730&name=gcp-logo-cloud.png" alt="gcp" width="80" height="80"/>
-</a>
 <!-- Add more cloud-related tools here -->
 </p>
 
