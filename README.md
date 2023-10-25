@@ -32,9 +32,6 @@
 <a href="[https://www.python.org](https://www.python.org/)" target="_blank" rel="noreferrer">
 <img src="https://i.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.webp" alt="python" width="100" height="100"/>
 </a>
-<a href="[https://golang.org](https://golang.org/)" target="_blank" rel="noreferrer">
-<img src="https://perisync.com/images/gocc.gif" alt="golang" width="170" height="100"/>
-</a>
 </p>
 
 <!-- Technologies Section -->
